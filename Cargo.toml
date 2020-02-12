@@ -12,3 +12,4 @@ reqwest = {version="0.10.1"}
 tokio = {version="0.2.11", features=["full"]}
 chrono = "0.4.10"
 stringplus = "0.1.0"
+chrono-tz = "0.5.1"
